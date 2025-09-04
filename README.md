@@ -2,7 +2,7 @@
 
 Ini adalah website portfolio untuk Muhammad Faizun Karim, menampilkan proyek, keterampilan, dan informasi kontak di bidang Data Science, Data Analyst, dan Data Engineer.
 
----
+--
 
 ## Fitur
 
