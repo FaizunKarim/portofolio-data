@@ -1,6 +1,6 @@
 # Portfolio Muhammad Faizun Karim
 
-Ini adalah website portfolio untuk Muhammad Faizun Karim, menampilkan proyek, keterampilan, dan informasi kontak di bidang Data Science, Data Analyst, dan Data Engineer.
+Ini adalah website portfolio untuk Muhammad Faizun Karim, tempat saya untuk menampilkan proyek dan keterampilan di bidang Data Science, Data Analyst, dan Data Engineer, serta informasi mengenai profile dan kontak saya.
 
 ## Fitur
 
